@@ -1,0 +1,147 @@
+#title_a{
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Secular One', sans-serif;
+    color:rgb(196, 196, 196);
+
+}
+
+#section_a{
+    
+top: 2em;
+position: relative;
+display: flex;
+justify-content: space-between;
+margin-left: 3em;
+margin-right: 3em;
+margin-bottom: 4em;
+
+}
+
+#get_card_button{
+    font-size: 2.5em;
+    font-family: 'Secular One', sans-serif;
+    border-color: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2em;
+
+
+}
+
+
+
+#ppgpahk_sectiona{
+margin-top: 0;
+    height: 20em; 
+    background-color: rgba(0, 0, 0);
+
+}
+
+.sectionb{
+    padding-top:16em;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 4em;
+    }
+
+    .save_contact{
+
+        font-size: 2em;
+      }
+
+      #sectionb_buttona button{
+
+        background-color: rgb(253, 255, 131);
+        width:15em;
+        font-family: 'Secular One', sans-serif;
+      }
+
+      #sectionb_buttonb button{
+
+        background-color: rgb(246, 246, 245);
+        width:12em;
+        font-family: 'Secular One', sans-serif;
+      }
+
+
+
+      .hr-lines:before{
+        content:"   ";
+        display: block;
+        height: 2px;
+        width: 200px;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        background: red;
+      }
+
+      .hr-lines{
+        position: relative;
+      }
+
+
+      .hr-lines{
+        position: relative;
+        /*  new lines  */
+        max-width: 600px;
+        margin: 100px auto;
+        text-align: center;
+      }
+
+      
+      .hr-lines:after{
+        content:"   ";
+        height: 2px;
+        width: 200px;
+        background: red;
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: 0;
+      }
+
+
+      #sectionc_abtme{
+        font-size: 80px;
+  top:-2em;
+        position: relative;
+        margin-left: 3em;
+        margin-right: 2.5em;
+        margin-bottom: -2.5em;
+        font-size: 2em;
+        text-overflow: clip;
+
+      }
+
+
+      #sectionc_social{
+
+        top:-2em;
+              position: relative;
+              display: flex;
+              justify-content: space-around;
+              margin-left: 3em;
+              margin-right: 2.5em;
+              margin-bottom: -2.5em;
+              font-size: 2em;
+              text-overflow: clip;
+      
+            }
+
+
+            .social{
+
+                width: 50px;
+                text-align: center;
+
+            
+              }
