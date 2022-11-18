@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    padding: 0;
+ }
+ 
+
+
+#hifive_header{
+
+
+color: black;
+font-size: 1.25em;
+position: relative;
+text-align: center;
+padding-top: 1em;
+padding-bottom: 0.5em;
+font-family: 'Anton', sans-serif;
+}
+
+.tab_bar{
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 0.6em;
+    padding-bottom: 1.5em;
+}
+
+.pro_cardBody{
+
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+    padding: 0rem !important;
+    border-radius: 5px;
+    height: 10em;
+    width: 22em;
+    background-color: rgb(28, 28, 29);
+
+
+
+    
+}
+
+
+#card_image{
+
+    position: relative;
+    display: flex;
+    justify-items: center;
+
+}
+
+
+.card_imageA{
+
+    width: 40%;
+
+}
+
+
+
+ #card_info{
+
+    margin: 0;
+    padding-top: 2em;
+    padding-left: 0.3em;
+    color:white;
+
+}
+
+.info_fontA{
+
+
+    font-size: 1.3em;
+}
+
+
+.info_fontB{
+ 
+    font-size: 0.7em;
+}
+
+.info_fontC{
+
+   
+    font-size: 0.5em;
+}
+
+#info_fontB1{
+
+    font-size: 0.5em;
+
+}
+
+#info_fontB2{
+
+    font-size: 0.7em;
+
+}
+
+
+button{
+    all: unset;
+    cursor: pointer;
+
+}
+
+
+.linediv { height: 1px; border-top: 1px solid black; text-align: center; position: relative; }
+.linespan { position: relative; top: -.7em; background: white; display: inline-block;  font-family: 'Staatliches', cursive;}
+
+
+
+
+#sectionc_social{
+
+        top:2em;
+          position: relative;
+          display: flex;
+          justify-content: space-around;
+          bottom:2em;
+  
+        }
+
+        #sectionc_social a {
+
+            color:#034249;
+        }
+
+
+        .social{
+
+            width: 50px;
+            text-align: center;
+
+        
+          }
